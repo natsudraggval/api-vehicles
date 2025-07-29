@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "title": "Dio",
+        "price": "Rs 500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Scooter",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__Dio_100.png"
+    },
+    {
+        "id": 2,
+        "title": "NTorq",
+        "price": "Rs 600",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Scooter",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/TVS__NTorq_125.png"
+    },
+    {
+        "id": 3,
+        "title": "Aviator",
+        "price": "Rs 500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Scooter",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__Aviator.png"
+    },
+    {
+        "id": 4,
+        "title": "Suzuki",
+        "price": "Rs 500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Scooter",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__Dio_110.png"
+    },
+    {
+        "id": 5,
+        "title": "CRF Rally",
+        "price": "Rs 2500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__CRF_300L_rally_2.png"
+    },
+    {
+        "id": 6,
+        "title": "Yamaha FZ",
+        "price": "Rs 1000",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Yamaha__FZ_150.png"
+    },
+    {
+        "id": 7,
+        "title": "XPulse 200",
+        "price": "Rs 1500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Hero__Xpulse_200-_4V.png"
+    },
+    {
+        "id": 8,
+        "title": "Ktm Adventure",
+        "price": "Rs 2500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/KTM_Adventure_250.png"
+    },
+    {
+        "id": 9,
+        "title": "Royal Enfield",
+        "price": "Rs 1300",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Royal_Enfield__Classic_350_2.png"
+    },
+    {
+        "id": 10,
+        "title": "CrossFire",
+        "price": "Rs 1500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Viar_Cross__X250.png"
+    },
+    {
+        "id": 11,
+        "title": "Pulsar 150",
+        "price": "Rs 900",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Bajaj__Pulsar_150.png"
+    },
+    {
+        "id": 12,
+        "title": "Royal Enfield Scram",
+        "price": "Rs 3500",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Royal_Enfield__Scram_411.png"
+    },
+    {
+        "id": 13,
+        "title": "Apache 200",
+        "price": "Rs 1200",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/TVS__Apache_RTR_200.png"
+    },
+    {
+        "id": 14,
+        "title": "Pulsar 220",
+        "price": "Rs 1200",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Bajaj__Pulsar_220.png"
+    },
+    {
+        "id": 15,
+        "title": "XR 190",
+        "price": "Rs 1700",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__XR_190.png"
+    },
+    {
+        "id": 16,
+        "title": "Himalayan 450",
+        "price": "Rs 3200",
+        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Royal_Enfield__Himalayan_450.png"
+    }
+    
+]
