@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "category": "Scooter",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__Dio_100.png"
+    },
+    {
+        "id": 2,
+        "category": "Bike",
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Hero__Xpulse_200-_4V.png"
+    },
+    {
+        "id": 3,
+        "category": "Car",
+        "image": "https://laxmihyundai.com/laravel-filemanager/files/1/GRAND-i10-NIOS-FL/NIOS-FL.png"
+    },
+    {
+        "id": 4,
+        "category": "Jeep",
+        "image": "https://suzuki.com.np/uploads/product/5cfab11ba7f188474a71a0f58a1e6c36.png"
+    }
+    
+]
