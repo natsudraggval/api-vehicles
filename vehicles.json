@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "title": "Suzuki",
+        "title": "Suzuki Avenis",
         "price": "Rs 500",
         "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
         "category": "Scooter",
@@ -73,7 +73,7 @@
     },
     {
         "id": 10,
-        "title": "CrossFire",
+        "title": "Cross Fire",
         "price": "Rs 1500",
         "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
         "category": "Bike",
@@ -97,35 +97,35 @@
     },
     {
         "id": 13,
-        "title": "Apache 200",
-        "price": "Rs 1200",
-        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
-        "category": "Bike",
-        "image": "https://cdn.riderly.com/storage/media/img/bikes/TVS__Apache_RTR_200.png"
+        "title": "Hyundai i10",
+        "price": "Rs 4700",
+        "description": "Car for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Car",
+        "image": "https://laxmihyundai.com/laravel-filemanager/files/1/GRAND-i10-NIOS-FL/NIOS-FL.png"
     },
     {
         "id": 14,
-        "title": "Pulsar 220",
-        "price": "Rs 1200",
-        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
-        "category": "Bike",
-        "image": "https://cdn.riderly.com/storage/media/img/bikes/Bajaj__Pulsar_220.png"
+        "title": "Celerio",
+        "price": "Rs 4500",
+        "description": "Car for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Car",
+        "image": "https://suzuki.com.np/uploads/product/bd5ea4fb816428a1025729cda3fec51f.png"
     },
     {
         "id": 15,
-        "title": "XR 190",
-        "price": "Rs 1700",
-        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
-        "category": "Bike",
-        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__XR_190.png"
+        "title": "Kona Electric",
+        "price": "Rs 5000",
+        "description": "Car for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Car",
+        "image": "https://laxmihyundai.com/laravel-filemanager/files/1/Kona/h56c018.png"
     },
     {
         "id": 16,
-        "title": "Himalayan 450",
-        "price": "Rs 3200",
-        "description": "Bike for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
-        "category": "Bike",
-        "image": "https://cdn.riderly.com/storage/media/img/bikes/Royal_Enfield__Himalayan_450.png"
+        "title": "Jimny",
+        "price": "Rs 7200",
+        "description": "Car for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Car",
+        "image": "https://suzuki.com.np/uploads/product/5cfab11ba7f188474a71a0f58a1e6c36.png"
     }
     
 ]
