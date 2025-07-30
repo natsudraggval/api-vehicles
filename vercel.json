@@ -12,6 +12,10 @@
       "dest": "/api/vehicles.js"
     },
     {
+      "src": "/api/category",
+      "dest": "/api/category.js"
+    },
+    {
       "src": "/images/(.*)",
       "dest": "/public/images/$1"
     }
