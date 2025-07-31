@@ -2,17 +2,17 @@
     {
         "id": 1,
         "category": "Scooter",
-        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__Dio_100.png"
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/Honda__Dio_110.png"
     },
     {
         "id": 2,
         "category": "Bike",
-        "image": "https://cdn.riderly.com/storage/media/img/bikes/Hero__Xpulse_200-_4V.png"
+        "image": "https://cdn.riderly.com/storage/media/img/bikes/KTM_Adventure_250.png"
     },
     {
         "id": 3,
         "category": "Car",
-        "image": "https://laxmihyundai.com/laravel-filemanager/files/1/GRAND-i10-NIOS-FL/NIOS-FL.png"
+        "image": "https://suzuki.com.np/uploads/product/bd5ea4fb816428a1025729cda3fec51f.png"
     },
     {
         "id": 4,
