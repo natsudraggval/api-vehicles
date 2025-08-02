@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "fulllName": "admin",
+    "email": "admin@demo.com",
+    "phoneNumber": 9841123456,
+    "password": "admin@123",
+    "confirmPassword": "admin@123"
+  },
+  {
+    "id": 2,
+    "fulllName": "natsu",
+    "email": "natsu@demo.com",
+    "phoneNumber": 9841123456,
+    "password": "natsu@123",
+    "confirmPassword": "natsu@123"
+  },
+  {
+    "id": 3,
+    "fulllName": "ram",
+    "email": "ram@demo.com",
+    "phoneNumber": 9841123456,
+    "password": "ram@123",
+    "confirmPassword": "ram@123"
+  },
+  {
+    "id": 4,
+    "fulllName": "sita",
+    "email": "sita@demo.com",
+    "phoneNumber": 9841123456,
+    "password": "sita@123",
+    "confirmPassword": "sita@123"
+  },
+  {
+    "id": 5,
+    "fulllName": "hari",
+    "email": "hari@demo.com",
+    "phoneNumber": 9841123456,
+    "password": "hari@123",
+    "confirmPassword": "hari@123"
+  },
+  {
+    "id": 6,
+    "fulllName": "shyam",
+    "email": "shyam@demo.com",
+    "phoneNumber": 9841123456,
+    "password": "shyam@123",
+    "confirmPassword": "shyam@123"
+  }
+  
+]

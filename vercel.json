@@ -16,6 +16,10 @@
       "dest": "/api/category.js"
     },
     {
+      "src": "/api/users",
+      "dest": "/api/users.js"
+    },
+    {
       "src": "/images/(.*)",
       "dest": "/public/images/$1"
     }
