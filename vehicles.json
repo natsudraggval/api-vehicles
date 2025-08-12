@@ -122,10 +122,26 @@
     {
         "id": 16,
         "title": "Jimny",
-        "price": "Rs 7200",
+        "price": "Rs 9200",
         "description": "Car for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
         "category": "Jeep",
         "image": "https://suzuki.com.np/uploads/product/5cfab11ba7f188474a71a0f58a1e6c36.png"
+    },
+    {
+        "id": 17,
+        "title": "Rubicon",
+        "price": "Rs 25000",
+        "description": "Car for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Jeep",
+        "image": "https://jeep.com.np/wp-content/uploads/2021/11/image-10.png"
+    },
+    {
+        "id": 18,
+        "title": "WranglerJL",
+        "price": "Rs 18200",
+        "description": "Car for rent well-maintained, fuel-efficient, and perfect for city rides. Helmet included. Daily, weekly, and monthly rates available.",
+        "category": "Jeep",
+        "image": "https://jeep.com.np/wp-content/uploads/2020/05/WranglerJL-White-2.jpg.img_.1440-2-1024x426.jpg"
     }
     
 ]
